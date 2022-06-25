@@ -2,6 +2,8 @@
 ---
 ### > `Developer - Tushar Pardhe`
 
+<div class="team_card">
+
 ![tushar](../assets/images/tushar_fox.webp)
 
 <div class="links">
@@ -15,9 +17,12 @@ I am enthusiastic about web3 technologies and have a good understanding of the X
 
 Come say hi to me on my socials.
 
+</div>
 ---
 
 ### > `Finance - Edward van Doorn`
+
+<div class="team_card">
 
 ![edward](../assets/images/edward_fox.webp)
 
@@ -30,3 +35,5 @@ Come say hi to me on my socials.
 Edward is the CEO at Orange Edge.
 His experience spans from Project Evaluation to Private Equity and Blockchain Development.
 He is also a non-executive Director at Red Paper Kite publishing.
+
+</div>
