@@ -1,0 +1,15 @@
+{
+  "name": "xpt-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "docsify serve ./documentation"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docsify-themeable": "^0.8.6"
+  }
+}
