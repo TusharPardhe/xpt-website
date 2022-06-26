@@ -17,8 +17,8 @@ I am enthusiastic about web3 technologies and have a good understanding of the X
 Come say hi to me on my socials.
 
 </div>
----
 
+---
 ### > `Finance - Edward van Doorn`
 
 <div class="team_card">
