@@ -1,4 +1,4 @@
 - [Home]()
-- [Timeline](./sections/timeline.md)
-- [Features](./sections/features.md)
-- [Snapshots](./sections/snapshots.md)
+- [Timeline](/sections/timeline.md)
+- [Features](/sections/features.md)
+- [Snapshots](/sections/snapshots.md)
