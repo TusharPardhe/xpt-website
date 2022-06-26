@@ -28,4 +28,4 @@ A lot of information goes through XRPL on daily basis, hence it might be challen
 
 Furthermore, many users participate in airdrops, but as more projects grow and carry out such drops, it will be a challenge for the users to keep up with airdrops and projects will miss out valuable consumers. Using XPT an issuer can fill out a structured form to publicise their airdrop date, amount, eligibility requirements, and other key information. 
 
-Also, I want to build this extension to spread knowledge about XRPL and help people realise that XRPL is not just a "fast and secure" blockchain but also a "fast, secure, and evolving" blockchain, I have many ideas about how to enhance XPT's capabilities and provide the finest user experience. If you wish to contribute your ideas feel free to reach out.
+I want to build this extension to spread knowledge about XRPL and help people realise that XRPL is not just a "fast and secure" blockchain but also a "fast, secure, and evolving" blockchain, I have many ideas about how to enhance XPT's capabilities and provide the finest user experience. If you wish to contribute your ideas feel free to reach out.
