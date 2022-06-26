@@ -32,7 +32,8 @@ Come say hi to me on my socials.
 </div>
 
 Edward is the CEO at Orange Edge.
-His experience spans from Project Evaluation to Private Equity and Blockchain Development.
-He is also a non-executive Director at Red Paper Kite publishing.
+His expertise includes blockchain development, private equity, and project evaluation.
+At Red Paper Kite publishing, he also acts as a non-executive Director.
+He founded [Editions](https://www.editions.earth/), is very prudent and would love to hear your thoughts on his projects. Connect with him by using the links above.
 
 </div>
