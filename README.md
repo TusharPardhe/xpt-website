@@ -1,0 +1,2 @@
+# XPT - XRPL Portfolio Tracker
+XPT is a ReactJS-based browser plugin that allows users to save and track any XRP ledger account. It creates a portfolio for each saved account, which includes data like account balances, issued tokens, trustlines, most recent transactions, and many other intriguing details. It also keeps track of the current XRP price, supply, market capitalization, 24-hour volume, and other currency-related data. It also includes official and non-official open source project links, as well as instructive links, code samples, and essential ledger information.
