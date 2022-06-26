@@ -26,6 +26,6 @@ Currently there are variety of ways through which you can track your XRPL accoun
 
 A lot of information goes through XRPL on daily basis, hence it might be challenging for the end user to notice and keep informed. In addition, there are a lot of projects being built on XRPL, but the majority of them go unrecognised and never receive the appreciation they deserve. The incorporation of "Useful Projects/Links" tab in XPT will give such projects a platform to present themselves to users.
 
-Furthermore, many users participate in airdrops, but as more projects grow and carry out such drops, it will become challenging for the users to keep up with airdrops. Using XPT an issuer can fill out a structured form to publicise their airdrop date, amount, eligibility requirements, and other key information. 
+Furthermore, many users participate in airdrops, but as more projects grow and carry out such drops, it will be a challenge for the users to keep up with airdrops and projects will miss out valuable consumers. Using XPT an issuer can fill out a structured form to publicise their airdrop date, amount, eligibility requirements, and other key information. 
 
 Also, I want to build this extension to spread knowledge about XRPL and help people realise that XRPL is not just a "fast and secure" blockchain but also a "fast, secure, and evolving" blockchain, I have many ideas about how to enhance XPT's capabilities and provide the finest user experience. If you wish to contribute your ideas feel free to reach out.
