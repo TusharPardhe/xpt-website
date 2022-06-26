@@ -11,9 +11,8 @@
     <a class="fab fa-linkedin" href="https://www.linkedin.com/in/tusharpardhe/"></a>
 </div>
 
-I completed my undergrad in Information Technology from [NSIT, India](http://www.nsit.ac.in/). Following graduation, I wrote a few papers on a variety of subjects; you can visit my LinkedIn to learn more about them.
-I primarily code Javascript for both the front end (ReactJS) and back end (NodeJS), but my preferred language remains C++.
-I am enthusiastic about web3 technologies and have a good understanding of the XRP Ledger, but there is still much to learn and grow.
+I completed my undergrad majoring in Information Technology from [NSIT, India](http://www.nsit.ac.in/). Following graduation, I wrote a few papers on a variety of subjects; you can visit my LinkedIn to learn more about them. I am currently working as a software engineer and primarily code using Javascript for both the front end (ReactJS) and back end (NodeJS), but my preferred language remains C++.
+I am enthusiastic about web3 technologies and have a good understanding of the XRP Ledger, there is still much to learn and grow.
 
 Come say hi to me on my socials.
 

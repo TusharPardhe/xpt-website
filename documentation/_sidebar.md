@@ -1,5 +1,5 @@
 - [Intoduction]()
-- [Timeline](./sections/timeline.md)
 - [Features](./sections/features.md)
+- [Timeline](./sections/timeline.md)
 - [Snapshots](./sections/snapshots.md)
 - [Team](./sections/about.md)
