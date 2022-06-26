@@ -1,5 +1,5 @@
 <div class="main_header">
-    <img src='../assets/images/xpt.svg' alt="x"/>
+    <img src='./../assets/images/xpt.svg' alt="x"/>
     <div class="txt">PT</div>
 </div>
 
