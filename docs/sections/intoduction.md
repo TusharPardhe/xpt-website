@@ -21,7 +21,7 @@ XRP ledger is a decentralized and open blockchain; hence all the information is 
 
 Want to track our current progress? Visit [Timeline](/sections/timeline.md).
 
-Also, check out some snapshots of our current build in the [Snapshots](/sections/snapshots.md) section.
+Also, check out snapshots of our current build in the [Snapshots](/sections/snapshots.md) section.
 
 ## But! Why use XPT?
 
