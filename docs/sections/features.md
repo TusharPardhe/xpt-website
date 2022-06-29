@@ -1,6 +1,7 @@
 # Features
 
 A compact, user-friendly plugin that queries XRPL.
+
 All the features are listed below:
 
 ## `Account Porfolio`
