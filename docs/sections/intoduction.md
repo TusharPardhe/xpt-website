@@ -33,4 +33,3 @@ Since XRPL receives a lot of information daily, it may be difficult for the end-
 
 Furthermore, many users participate in airdrops, but as more projects grow and carry out drops, it will be a challenge for the users to keep up - projects will miss out on valuable consumers. Using the XPT browser extension: an issuer can fill out a structured form to publicize their airdrop date, amount, eligibility requirements, and other information.
 I want to build this extension to spread knowledge about XRPL and help people realize that XRPL is not just a "fast and secure" blockchain but also a "fast, secure, and evolving" blockchain. I have numerous ideas for improving XPT's capabilities and providing the best user experience possible.
-Contact us if you would like to submit your idea. 
