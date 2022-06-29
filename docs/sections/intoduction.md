@@ -19,9 +19,9 @@ XPT - XRPL Portfolio Tracker, as the name suggests, is a browser plugin coded us
 
 XRP ledger is a decentralized and open blockchain; hence all the information is public, which means one can track any account of their choice! The extension is not limited to this; there are many other intriguing developments and ideas in progress, such as the incorporation of the Airdrop calendar, live XRP price updates, useful project links, NFT minting calendar, and many more. Visit the [Features](/sections/features.md) section to learn more about what is being developed. If you've suggestions/ideas or want to be a part of the community. Join us on [Twitter](https://twitter.com/xptxrpl). 
 
-To see the current progress visit [Timeline](/sections/timeline.md) section.
+Want to track our current progress? Visit [Timeline](/sections/timeline.md).
 
-To check out some snapshots of our current build visit [Snapshots](/sections/snapshots.md) section.
+Also, check out some snapshots of our current build in the [Snapshots](/sections/snapshots.md) section.
 
 ## But! Why use XPT?
 
