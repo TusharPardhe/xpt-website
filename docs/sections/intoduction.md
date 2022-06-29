@@ -27,10 +27,10 @@ To check out some snapshots of our current build visit [Snapshots](/sections/sna
 
 A good question!
 
-Currently there are variety of ways through which you can track your XRPL account. A lot of projects are working tirelessly to make information more accessible and to build a strong community. My main goal with XPT is to support their developments and combine all the information under one umbrella to increase reachability.
+Currently, there are a variety of ways through which you can track your XRPL account. Many projects are working to improve access to XRP Ledger. My primary objective with XPT is to assist in their development and bring all information under one roof to maximize reachability. 
 
-A lot of information goes through XRPL on daily basis, hence it might be challenging for the end user to notice and keep informed. In addition, there are a lot of projects being built on XRPL, but the majority of them go unrecognised and never receive the appreciation they deserve. The incorporation of "Useful Projects/Links" tab in XPT will give such projects a platform to present themselves to users.
+Since XRPL receives a lot of information daily, it may be difficult for the end-user to notice and stay informed. Furthermore, many projects are functioning on XRPL, but the vast majority of these go unnoticed and never receive the recognition they deserve. The "Useful Initiatives/Links" page to XPT will provide a forum for such projects to offer themselves to consumers. 
 
-Furthermore, many users participate in airdrops, but as more projects grow and carry out such drops, it will be a challenge for the users to keep up with airdrops and projects will miss out valuable consumers. Using XPT an issuer can fill out a structured form to publicise their airdrop date, amount, eligibility requirements, and other key information. 
-
-I want to build this extension to spread knowledge about XRPL and help people realise that XRPL is not just a "fast and secure" blockchain but also a "fast, secure, and evolving" blockchain, I have many ideas about how to enhance XPT's capabilities and provide the finest user experience. If you wish to contribute your ideas feel free to reach out.
+Furthermore, many users participate in airdrops, but as more projects grow and carry out drops, it will be a challenge for the users to keep up - projects will miss out on valuable consumers. Using the XPT browser extension: an issuer can fill out a structured form to publicize their airdrop date, amount, eligibility requirements, and other information.
+I want to build this extension to spread knowledge about XRPL and help people realize that XRPL is not just a "fast and secure" blockchain but also a "fast, secure, and evolving" blockchain. I have numerous ideas for improving XPT's capabilities and providing the best user experience possible.
+Contact us if you would like to submit your idea. 
