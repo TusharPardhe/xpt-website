@@ -1,6 +1,6 @@
 # Features
 
-The extension will be designed in a way that it is really easy to download and use. This makes it a great choice for people who are looking forward to using it on daily basis. All the features that makes it special are listed below. 
+A compact, user-friendly plugin that queries XRPL.
 
 ## `Account Porfolio`
 
