@@ -13,6 +13,7 @@
 	--link-color--hover: #F2B5D4;
 	--blockquote-border-radius: 24px;
 	--code-inline-border-radius: 10px;
+	/* --base-background-color: #393E46; */
 }
 
 body:not(.ready) {
