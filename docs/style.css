@@ -8,12 +8,19 @@
 	-webkit-touch-callout: none;
 	box-sizing: border-box
 }
+
 :root {
 	--link-color: #7BDFF2;
 	--link-color--hover: #F2B5D4;
 	--blockquote-border-radius: 24px;
 	--code-inline-border-radius: 10px;
-	/* --base-background-color: #393E46; */
+	--base-background-color: #5b6467;
+	--code-inline-background: rgba(10, 22, 32, 0.562);
+	--blockquote-background: #182327;
+	--docsifytabs-tab-background: var(--blockquote-background);
+	--docsifytabs-tab-color: white;
+	--docsifytabs-tab-highlight-color: black;
+	background-image: linear-gradient(185deg, #485461 20%, #28313b 90%);
 }
 
 body:not(.ready) {
