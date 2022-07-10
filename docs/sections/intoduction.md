@@ -26,4 +26,4 @@ Since XRPL receives a lot of information daily, it may be difficult for the end-
 
 Furthermore, many users participate in airdrops, but as more projects grow and carry out drops, it will be a challenge for the users to keep up - projects will miss out on valuable consumers. Using the extension: an issuer can fill out a structured form to publicize their airdrop date, distribution amount, eligibility requirements, and other AD related information. 
 
-There are many ideas that can be implemented and a lot of different paths to take, but my main objective is to spread knowledge about XRPL and help people realize that XRPL is not just a "fast and secure" blockchain but also a "fast, secure, and evolving" blockchain.
+There are many ideas that can be implemented and a lot of different paths to take. We will keep you all posted. Also, feel free to give us your suggestions on [Twitter](https://twitter.com/xptxrpl).
