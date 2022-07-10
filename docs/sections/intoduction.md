@@ -24,4 +24,6 @@ Currently, there are a variety of ways through which you can track your XRPL acc
 
 XRPL ecosystem is growing rapidly and it may be difficult for the end-user to keep track of ongoing changes. Many projects are functioning on XRPL, but the vast majority of these go unnoticed and never receive the recognition they deserve. The "Useful Projects/Links" page in XPT will provide a forum for such projects to present themselves to consumers. 
 
-Furthermore, many users participate in airdrops, but as more projects grow and carry out drops, it will be a challenge for the users to keep up - projects will miss out on valuable consumers. Using the extension: an issuer can fill out a structured form to publicize their airdrop date, distribution amount, eligibility requirements, and other AD related information. There are many ideas that can be implemented and a lot of different paths to take, I will keep you all posted.
+Many users participate in airdrops, but as more projects grow and carry out drops, it will be a challenge for the users to keep up - projects will miss out on valuable consumers. Using the extension: an issuer can fill out a structured form to publicize their airdrop date, distribution amount, eligibility requirements, and other AD related information. 
+
+Want to know more? Check out our [Features](/sections/features.md) for a detailed view.
