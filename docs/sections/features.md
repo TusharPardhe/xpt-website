@@ -12,12 +12,18 @@ All the features are listed below:
 - Date of creation etc.
 - Xumm Kyc Information
 
-## `Airdrop Calendar`
+## `Airdrop Calendar` 
 
 - Detailed view of upcoming ADs
 - Datewise sorting
 - Project links/forms and eligibility criteria
 - Trustline information
+
+## `Mint Calendar`(After XLS20 is live)
+
+- List of upcoming mints
+- Eligibility criteria
+- Creator information and socials
 
 ## `Issued Assets` 
 - Number of tokens issued 
@@ -45,7 +51,7 @@ All the features are listed below:
 - Currency ticker 
 - Issuer account etc.
 
-## `NFT Visualiser` (After XLS20D is live)
+## `NFT Visualiser` (After XLS20 is live)
 
 - View your NFT Jpeg/Png etc
 - Check current price etc.
