@@ -10,41 +10,45 @@
 
 `Landing:`
 
-![snap1](../assets/snapshots/snap01.png)
+<img src="../assets/snapshots/snap01.png" alt="snap1" width="400"/>
 
 `Sign Up:`
 
-![snap2](../assets/snapshots/snap02.png)
+<img src="../assets/snapshots/snap02.png" alt="snap2" width="400"/>
 
 #### **Home & Account**
 
-<!-- `Home:`
+<img src="../assets/snapshots/snap09.png" alt="snap9" width="400"/>
+<img src="../assets/snapshots/snap03.png" alt="snap3" width="400"/>
 
-![snap3](../assets/snapshots/snap03.png) -->
 
 `Track:`
 
-![snap4](../assets/snapshots/snap04.png)
+<img src="../assets/snapshots/snap04.png" alt="snap4" width="400"/>
 
 `Navbar:`
 
-![snap8](../assets/snapshots/snap08.png)
+<img src="../assets/snapshots/snap08.png" alt="snap8" width="400"/>
 
 `Account Details:`
 
-![snap7](../assets/snapshots/snap07.png)
+<img src="../assets/snapshots/snap07.png" alt="snap7" width="400"/>
 
 #### **AD Calendar**
 
 `Airdrop List:`
 
-![snap5](../assets/snapshots/snap05.png)
+<img src="../assets/snapshots/snap05.png" alt="snap5" width="400"/>
+<img src="../assets/snapshots/snap10.png" alt="snap10" width="400"/>
+<img src="../assets/snapshots/snap11.png" alt="snap11" width="400"/>
+<img src="../assets/snapshots/snap12.png" alt="snap12" width="400"/>
+<img src="../assets/snapshots/snap13.png" alt="snap13" width="400"/>
 
 ### **XRP Details**
 
 `XRP Live Tracking:`
 
-![snap6](../assets/snapshots/snap06.png)
+<img src="../assets/snapshots/snap06.png" alt="snap6" width="400"/>
 
 <!-- tabs:end -->
 
