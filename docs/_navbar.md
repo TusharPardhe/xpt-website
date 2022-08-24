@@ -2,3 +2,4 @@
 - [Timeline](/sections/timeline.md)
 - [Features](/sections/features.md)
 - [Snapshots](/sections/snapshots.md)
+- [Policy](/sections/policy.md)
